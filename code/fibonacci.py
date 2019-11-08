@@ -16,3 +16,8 @@ def fibonacci_number_for_index(n):
         return fibonacci_number_for_index(n - 1) + fibonacci_number_for_index(n - 2)
     
     //commitmentttt
+
+def makesSomethingHappen(n):
+    i = n+n
+    return i
+    
